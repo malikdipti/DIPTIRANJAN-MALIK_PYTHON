@@ -1,0 +1,21 @@
+4.  
+General Host and Server Monitoring: CPU, Memory, Disk, Network and Process utilization
+
+Database Monitoring: Database Instance Activity, Query behavior, and User Activity.
+
+Messaging: Email Database Response and Server Utilization
+
+Web Server: Network Bandwidth, Busy and Idle Threads, Throughput
+
+Application Server: Resource Issues, Transaction Volume
+
+
+
+
+
+
+
+a. write the command to observe or troubleshoot : strace
+
+b .write commands to identify which process are consuming more load on the server: htop , or      top -b -n 1 | head -n 12
+
